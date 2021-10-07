@@ -1,0 +1,80 @@
+header{
+  background-color: #346751;
+  height: 60px;
+  width: 100%;
+}
+body{
+  background-color: #ECDBBA;
+}
+.LOGO{
+  margin-top: 35px;
+  margin-left: 300px;
+}
+footer{
+  background-color: #346751;
+  color: white;
+  text-align: center;
+  margin-top: 70px;
+}
+h1{
+  color: white;
+  text-align: center;
+}
+h4{
+  text-align:center;
+}
+
+h3{
+  width: 900px;
+  margin-left: 200px;
+}
+p{
+ width: 900px;
+ margin-left: 200px; 
+}
+b{
+ margin-left: 200px; 
+}
+
+a:hover {
+ color: white;
+}
+
+a:link, a:visited {
+	text-decoration: white;
+  color:#346751;
+}
+
+a:active {
+	text-decoration: white;
+}
+
+a:hover {
+ text-decoration: underline;
+}
+
+.BOTAO{
+  margin-left: 550px;
+  margin-top: 20px;
+}
+
+.BOTAO2{
+  margin-left: 200px;
+  margin-top: 80px;
+}
+
+.FOTO{
+  margin-left: 200px;
+  margin-top: 10px;
+}
+
+.TITULO{
+  width: 900px;
+margin-left: 200px;
+}
+
+.TITULO2{
+  width: 900px;
+margin-left: 200px;
+color:#C84B31;
+}
